@@ -1,7 +1,7 @@
 
 print('Hello world!')
 
-lista = ['dos', 'tres']
+numeros = ['dos', 'tres']
 
 lista_num = []
 
