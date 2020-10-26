@@ -7,3 +7,5 @@ Created on Sun Oct 25 21:32:02 2020
 """
 
 # nuevo brian
+
+# Now we're going to start using some code
