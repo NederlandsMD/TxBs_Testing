@@ -3,6 +3,7 @@ import numpy
 print('Hello world!')
 
 estonovalenada = ['cuatro', 'ocho']
+numeros = ['dos', 'tres']
 
 lista_num = []
 
