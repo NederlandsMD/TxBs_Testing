@@ -2,7 +2,9 @@ import numpy
 
 print('Hello world!')
 
-numeros = ['dos', 'tres']
+# conflict resolved for merge
+estonovalenada = ['cuatro', 'ocho']
+
 
 lista_num = []
 
@@ -16,9 +18,8 @@ arr = ['john', 'smith', 'margaret', 'thatcher']
 
 for a in arr:
     print(a + 'was an asshole')
-    
 
-def john(nombre):
-    if nombre == 'john':
-        return True
-    return False
+dict = {'small': 'hands',
+        'donald': 'trump',
+        'hair': 'plugs',
+        'joe', 'biden'}
