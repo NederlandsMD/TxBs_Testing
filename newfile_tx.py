@@ -2,7 +2,7 @@ import numpy
 
 print('Hello world!')
 
-lista = ['dos', 'tres']
+estonovalenada = ['cuatro', 'ocho']
 
 lista_num = []
 
