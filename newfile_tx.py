@@ -2,12 +2,13 @@ import numpy
 
 print('Hello world!')
 
+# conflict resolved for merge
 estonovalenada = ['cuatro', 'ocho']
-numeros = ['dos', 'tres']
+
 
 lista_num = []
 
-for e in lista:
+for e in lista_num:
     if e == 'dos':
         lista_num.append(2)
     if e == 'tres':
