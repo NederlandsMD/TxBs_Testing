@@ -16,3 +16,9 @@ arr = ['john', 'smith', 'margaret', 'thatcher']
 
 for a in arr:
     print(a + 'was an asshole')
+    
+
+def john(nombre):
+    if nombre == 'john':
+        return True
+    return False
