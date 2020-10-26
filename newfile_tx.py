@@ -18,3 +18,8 @@ arr = ['john', 'smith', 'margaret', 'thatcher']
 
 for a in arr:
     print(a + 'was an asshole')
+
+dict = {'small': 'hands',
+        'donald': 'trump',
+        'hair': 'plugs',
+        'joe', 'biden'}
