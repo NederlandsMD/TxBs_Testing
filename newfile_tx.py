@@ -1,1 +1,1 @@
-print('Hello world!')
+print('Hello world!')lista = ['dos', 'tres']lista_num = []for e in lista:    if e == 'dos':        lista_num.append(2)    if e == 'tres':        lista_num.append(3)
